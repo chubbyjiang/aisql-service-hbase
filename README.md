@@ -1,0 +1,1 @@
+# aisql-service-hbase
